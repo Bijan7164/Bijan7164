@@ -11,7 +11,7 @@
 
 *More detail* on **my interests**:
 
-Having experience of numerical modeling, I, particularly, am into projects that deal with the catastrophic results of climate change, such as wild-fire, flood, or drought, or programms that aid high efficiency in agriculture and food production through utilization of Deep Learning
+Having experience of numerical modeling and remote sensing, I, particularly, am into projects that deal with the catastrophic results of climate change, such as wild-fire, flood, or drought, or programms that aid high efficiency in agriculture and food production through utilization of Deep Learning
 <!---
 Bijan7164/Bijan7164 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

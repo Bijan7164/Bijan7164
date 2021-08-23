@@ -1,5 +1,7 @@
 - 👋 Hi, I’m *Bijan*
-- 👀 I’m interested in *science* as well as *programming*. I am good at working with timeseries and *high dimensional data*.
+
+  I studied Agrometeorology, and I am good at working with timeseries and *high dimensional data*.
+- 👀 I’m interested in *science* as well as *programming*.
 - 🌱 I’m currently learning web-development and JS
 - 💞️ I’m looking to collaborate on web-app developing
 - 📫 You can contact me by email: bijan.sedaqat.m@gmail.com

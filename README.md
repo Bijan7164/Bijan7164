@@ -9,7 +9,7 @@
 
 
 
-*More detail* on **my interests**
+*More detail* on **my interests**:
 
 Having experience of numerical modeling, I, particularly, am into projects that deal with the catastrophic results of climate change, such as wild-fire, flood, or drought, or programms that aid high efficiency in agriculture and food production through utilization of Deep Learning
 <!---
